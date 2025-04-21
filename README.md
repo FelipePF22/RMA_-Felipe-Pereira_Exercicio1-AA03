@@ -16,4 +16,4 @@ A tarefa consistiu na criação de um programa para controlar um robô simulado 
 
     Por fim, parar novamente por 1 segundo.
 
-O código, intitulado exercise_trajectory_control_ranumber, pode ser encontrado na pasta Code_python. Além disso, é possível visualizar na mesma pasta um vídeo que demonstra a simulação de um ciclo do movimento exigido pelo exercício. Para gerar mais ciclos, basta descomentar a linha else no final da estrutura while.
+O código, intitulado exercise_trajectory_control_ranumber, pode ser encontrado acima. Além disso, é possível visualizar um vídeo que demonstra a simulação de um ciclo do movimento exigido pelo exercício. Para gerar mais ciclos, basta descomentar a linha else no final da estrutura while.
